@@ -8,10 +8,14 @@
   
   ## Open Brewery DB API
   
-  ### O que é? É um conjunto de dados e API com informações públicas sobre cervejarias, cidreiras, brewpubs e lojas dedicadas a comercialização, uma API online e gratuita com informações a Inglaterra, Escócia, Irlanda e EUA.
-  ### Objetivo: Manter um conjunto de dados com códigos aberto ao contribuinte de toda comunidade e, deste modo fornecer uma API pública e tem como filosofia a publicidade e acessibilidade de informações a toda comunidade cervejeira, analista de dados e desenvolvedores web.
-  ### Data dos dados: em sua grande maioria são relativos a 2018, foram fornecidos pela Associação dos Cervejeiros e atualizado em setembro de 2020.
-  ### Responsável: criada e mantida por Chris J Mears, cientista de dados, apreciador de cerveja que vive em San Diego, CA, EUA.
+  ### O que é? 
+  #### É um conjunto de dados e API com informações públicas sobre cervejarias, cidreiras, brewpubs e lojas dedicadas a comercialização, uma API online e gratuita com informações a Inglaterra, Escócia, Irlanda e EUA.
+  ### Objetivo:
+  #### Manter um conjunto de dados com códigos aberto ao contribuinte de toda comunidade e, deste modo fornecer uma API pública e tem como filosofia a publicidade e acessibilidade de informações a toda comunidade cervejeira, analista de dados e desenvolvedores web.
+  ### Data dos dados: 
+  #### em sua grande maioria são relativos a 2018, foram fornecidos pela Associação dos Cervejeiros e atualizado em setembro de 2020.
+  ### Responsável: 
+  #### criada e mantida por Chris J Mears, cientista de dados, apreciador de cerveja que vive em San Diego, CA, EUA.
   ### Documentação, Endpoints e Dataset disponíveis em: Open Brewery DB|Documentation.
   
   
